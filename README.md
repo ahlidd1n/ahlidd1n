@@ -1,7 +1,8 @@
 <!-- Анимированная шапка с градиентной волной -->
 <p align="center">
 
-<img width="533" height="300" alt="Kotlin-Programming-for-Android-App-Development 1" src="https://github.com/user-attachments/assets/a02906b7-54f9-4656-94cc-f69fb4c8054d" />
+
+<img width="516" height="290" alt="Kotlin-Programming-for-Android-App-Development 1" src="https://github.com/user-attachments/assets/bcba33f1-494e-4ca8-884b-8cdaa7a0fba8" />
 
   
 </p>
